@@ -1,0 +1,18 @@
+
+== Major:
+
+* Native JSpec support
+* Allow --paths to have globs ... and dirs test this
+* Autotest-like functionality for specs / refactoring 
+  * rbind rake ext:build spec --paths foo,foobar,w/e
+* Test refresh eval
+* Increase readability / Documentation
+* Better specs
+
+== Minor:
+
+* Add more actions / events like atime
+
+== Brainstorming:
+
+* Nothing
